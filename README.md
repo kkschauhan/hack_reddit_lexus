@@ -85,3 +85,37 @@ Log in to your **Devvit** account using your **Reddit credentials**:
 ```bash
 devvit login
 ```
+### Deploy to Your Subreddit
+Use the following command to deploy:
+
+```bash
+devvit deploy --subreddit <yourSubredditName>
+```
+### Verify Deployment
+Visit your subreddit and create a new post with your custom post type to see your Hangman game live on Reddit!
+
+### Verify Deployment
+
+Visit your **subreddit** and create a new post with your **custom post type** to see your Hangman game live on Reddit!
+
+## Contributing
+
+Contributions are welcome! If you have ideas for improvements, please follow these steps:
+
+1. **Fork** the repository.
+2. **Create a new branch** (`git checkout -b feature/YourFeature`).
+3. **Commit your changes** (`git commit -am 'Add new feature'`).
+4. **Push to the branch** (`git push origin feature/YourFeature`).
+5. **Create a new Pull Request**.
+
+For major changes, please open an **issue** first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the **MIT License**.
+
+## Acknowledgments
+
+- Thanks to the **Devvit Playground** team for their amazing platform and documentation.
+- Special thanks to **Reddit** for supporting innovative community projects.
+- Inspired by **classic Hangman games** and modern **web development techniques**.
