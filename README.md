@@ -73,9 +73,6 @@ Open the preview URL in your browser to test the Hangman game.
 - When the player **correctly guesses** the word, they **win**.
 - Too many wrong guesses result in a **loss**.
 
-### Responsive UI
-The game automatically adapts to various screen sizes with **adjusted font sizes and layouts** to ensure optimal gameplay.
-
 ## Deployment
 
 ### Authenticate with Devvit
@@ -91,9 +88,6 @@ Use the following command to deploy:
 ```bash
 devvit deploy --subreddit <yourSubredditName>
 ```
-### Verify Deployment
-Visit your subreddit and create a new post with your custom post type to see your Hangman game live on Reddit!
-
 ### Verify Deployment
 
 Visit your **subreddit** and create a new post with your **custom post type** to see your Hangman game live on Reddit!
@@ -119,3 +113,4 @@ This project is licensed under the **MIT License**.
 - Thanks to the **Devvit Playground** team for their amazing platform and documentation.
 - Special thanks to **Reddit** for supporting innovative community projects.
 - Inspired by **classic Hangman games** and modern **web development techniques**.
+- **Developed by us during HackReddit 2025.**
