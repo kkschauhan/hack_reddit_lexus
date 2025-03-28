@@ -48,3 +48,17 @@
 ```bash
 git clone https://github.com/yourusername/hanging-by-a-thread.git
 cd hanging-by-a-thread
+```
+
+
+### Install Dependencies
+
+This project uses the **Devvit public API**. Make sure you have the **Devvit CLI** installed.  
+Follow the [Devvit installation guide](https://docs.devvit.io/) if needed.
+
+### Run Locally
+
+Use **Devvit Playground** to preview your app:
+
+```bash
+devvit start
