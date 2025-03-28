@@ -1,4 +1,4 @@
-# 🎩 Hanging by a Thread - A Hangman Game for Reddit 🎮
+# Hanging by a Thread - A Hangman Game for Reddit 🎮
 
 **Hanging by a Thread** is a fun and interactive Hangman game built using [Devvit Playground](https://devvit.gg/docs). It runs as a **custom post type on Reddit**, making it a unique and engaging experience for Reddit communities.
 
@@ -6,6 +6,7 @@
 
 ![Screenshot](https://via.placeholder.com/600x300?text=Hanging+by+a+Thread+Screenshot)
 
+[Reddit Link](https://www.reddit.com/r/lexusHangingbyaThread/comments/1jm1mjr/lexushangingbyathread_hello_world/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 ---
 
 ## 📌 Table of Contents
