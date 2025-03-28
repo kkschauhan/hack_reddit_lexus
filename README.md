@@ -51,14 +51,37 @@ cd hanging-by-a-thread
 ```
 
 
-### Install Dependencies
+### 2. Install Dependencies
 
 This project uses the **Devvit public API**. Make sure you have the **Devvit CLI** installed.  
 Follow the [Devvit installation guide](https://docs.devvit.io/) if needed.
 
-### Run Locally
+### 3. Run Locally
 
 Use **Devvit Playground** to preview your app:
 
 ```bash
 devvit start
+```
+Open the preview URL in your browser to test the Hangman game.
+
+## Usage
+
+### Game Play
+- The player is presented with a **hidden word** and a **keyboard**.
+- Clicking a letter **reveals** its occurrences in the word or **counts as a wrong guess**, gradually drawing the Hangman figure.
+- When the player **correctly guesses** the word, they **win**.
+- Too many wrong guesses result in a **loss**.
+
+### Responsive UI
+The game automatically adapts to various screen sizes with **adjusted font sizes and layouts** to ensure optimal gameplay.
+
+## Deployment
+
+### Authenticate with Devvit
+
+Log in to your **Devvit** account using your **Reddit credentials**:
+
+```bash
+devvit login
+```
