@@ -113,4 +113,4 @@ This project is licensed under the **MIT License**.
 - Thanks to the **Devvit Playground** team for their amazing platform and documentation.
 - Special thanks to **Reddit** for supporting innovative community projects.
 - Inspired by **classic Hangman games** and modern **web development techniques**.
-- **Developed by us during HackReddit 2025.**
+- **Developed by us during Hack Reddit 2025.**
