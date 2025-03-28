@@ -6,7 +6,7 @@
 
 ![Screenshot](https://github.com/kkschauhan/hack_reddit_lexus/blob/main/preview/preview_1.png)
 
-## 🌟 Check it out on Reddit!
+## 🎮 Check it out on Reddit!
 
 🔗 [Play the game on Reddit](https://www.reddit.com/r/lexusHangingbyaThread/comments/1jm1mjr/lexushangingbyathread_hello_world/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
@@ -38,14 +38,6 @@
 
 ---
 
-## 🎮 Demo
-
-🚀 **Try the game on Reddit:** [Live Demo Link (Add Your Link Here)]
-
-*(Include a short GIF or video demo if available.)*
-
----
-
 ## 🛠 Installation
 
 ### 1. Clone the Repository
@@ -61,7 +53,7 @@ cd hanging-by-a-thread
 This project uses the **Devvit public API**. Make sure you have the **Devvit CLI** installed.  
 Follow the [Devvit installation guide](https://docs.devvit.io/) if needed.
 
-### 3. Run Locally
+### 3. Follow following Steps to Run Locally and Innovate!
 
 Use **Devvit Playground** to preview your app:
 
@@ -78,7 +70,7 @@ Open the preview URL in your browser to test the Hangman game.
 - When the player **correctly guesses** the word, they **win**.
 - Too many wrong guesses result in a **loss**.
 
-## Deployment
+## Feel free to test your own versions or drop your ideas to us! (Here is how you can deploy)
 
 ### Authenticate with Devvit
 
