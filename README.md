@@ -53,7 +53,7 @@ cd hanging-by-a-thread
 This project uses the **Devvit public API**. Make sure you have the **Devvit CLI** installed.  
 Follow the [Devvit installation guide](https://docs.devvit.io/) if needed.
 
-### 3. Follow following Steps to Run Locally and Innovate!
+### 3. Here Is How You Can Run Locally And Innovate!
 
 Use **Devvit Playground** to preview your app:
 
