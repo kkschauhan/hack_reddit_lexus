@@ -2,7 +2,7 @@
 
 **Hanging by a Thread** is a fun and interactive Hangman game built using [Devvit Playground](https://devvit.gg/docs). It runs as a **custom post type on Reddit**, making it a unique and engaging experience for Reddit communities.
 
-🔥 **Built for the Reddit Hackathon!** 🔥
+🔥 **Built for the Hack Reddit 2025!** 🔥
 
 ![Screenshot](https://github.com/kkschauhan/hack_reddit_lexus/blob/main/preview/preview_1.png)
 
